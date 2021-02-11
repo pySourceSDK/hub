@@ -105,7 +105,7 @@ html_css_files = ['css/pyssdk.css']
 # default: ``['localtoc.html', 'relations.html', 'sourcelink.html',
 # 'searchbox.html']``.
 #
-# html_sidebars = {}
+html_sidebars = {'**': ['links-sidebar.html']}
 
 
 # -- Options for HTMLHelp output ---------------------------------------------
