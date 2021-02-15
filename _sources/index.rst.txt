@@ -6,19 +6,20 @@ pySourceSDK is an organisation that aims to provide utility libraries to read an
 Finished Projects
 -----------------
 .. |bsp| replace:: ValveBSP
-.. |bsptext| replace:: A tool to read and edit .bsp files for the Source engine.
+.. |bsptext| replace:: A python library to read and edit .bsp files for the Source engine.
 .. |bsplink| replace:: https://pysourcesdk.github.io/ValveBSP
 .. |fgd| replace:: ValveFGD
-.. |fgdtext| replace:: A tool to read and write .fgd files for the hammer editor.
+.. |fgdtext| replace:: A python library to read and write .fgd files for the hammer editor.
 .. |fgdlink| replace:: https://pysourcesdk.github.io/ValveFGD
-.. |mdl| replace:: ValveMDL
-.. |mdltext| replace:: A tool to read and write .mdl files for the Source engine.
-.. |vtf| replace:: ValveVTF
-.. |vtftext| replace:: A tool to read and write .vtf files for the Source engine.
-.. |vmf| replace:: ValveVMF
-.. |vmftext| replace:: A tool to read and write .vmf files for the Source engine.
 .. |pcf| replace:: ValvePCF
-.. |pcftext| replace:: A tool to read and write .pcf files for the Source engine.
+.. |pcftext| replace:: A python library to read and write .pcf files for the Source engine.
+.. |pcflink| replace:: https://github.com/pySourceSDK/ValvePCF
+.. |mdl| replace:: ValveMDL
+.. |mdltext| replace:: A python library to read and write .mdl files for the Source engine.
+.. |vtf| replace:: ValveVTF
+.. |vtftext| replace:: A python library to read and write .vtf files for the Source engine.
+.. |vmf| replace:: ValveVMF
+.. |vmftext| replace:: A python library to read and write .vmf files for the Source engine.
 
 
 
@@ -48,19 +49,21 @@ Upcoming Projects
 
 .. container:: proj-showcase
 
-   ..  figure:: /_static/pysourcesdk_bsp.png
-
-   .. glossary::
-      |vmf|
-        |vmftext|
-
-.. container:: proj-showcase
-
-   ..  figure:: /_static/pysourcesdk_bsp.png
+   ..  figure:: /_static/pysourcesdk_pcf.png
+       :target: https://github.com/pySourceSDK/ValvePCF
 
    .. glossary::
       |pcf|
         |pcftext|
+        |pcflink|
+
+.. container:: proj-showcase
+
+   ..  figure:: /_static/pysourcesdk_vmf.png
+
+   .. glossary::
+      |vmf|
+        |vmftext|
 
 .. container:: proj-showcase
 
