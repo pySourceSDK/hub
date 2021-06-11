@@ -46,7 +46,7 @@ Finished Projects
 .. container:: proj-showcase
 
    ..  figure:: /_static/pysourcesdk_pcf.png
-       :target: https://github.com/pySourceSDK/ValvePCF
+       :target: https://pysourcesdk.github.io/ValvePCF
 
    .. glossary::
       |pcf|
