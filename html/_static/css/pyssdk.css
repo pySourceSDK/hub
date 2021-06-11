@@ -1,0 +1,16 @@
+.proj-showcase {
+    display: block;
+    float: left;
+    clear: both;
+    width: 100%;
+}
+.proj-showcase .glossary {
+    padding: 20px 0;
+}
+.proj-showcase .figure {
+    float: left;
+    margin: 0 10px 0 0;
+}
+.proj-showcase .figure img{
+    height: 100px;
+}
