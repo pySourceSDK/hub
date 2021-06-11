@@ -8,9 +8,9 @@ This project is a resource to organise the documentation for the various project
 
     ValveFGD https://pysourcesdk.github.io/ValveFGD/
 
-### Upcoming Projects
+    ValvePCF https://pysourcesdk.github.io/ValvePCF/
 
-    ValvePCF
+### Upcoming Projects
 
     ValveVMf
 

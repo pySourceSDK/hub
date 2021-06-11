@@ -13,7 +13,7 @@ Finished Projects
 .. |fgdlink| replace:: https://pysourcesdk.github.io/ValveFGD
 .. |pcf| replace:: ValvePCF
 .. |pcftext| replace:: A python library to read and write .pcf files for the Source engine.
-.. |pcflink| replace:: https://github.com/pySourceSDK/ValvePCF
+.. |pcflink| replace:: https://pysourcesdk.github.io/ValvePCF
 .. |mdl| replace:: ValveMDL
 .. |mdltext| replace:: A python library to read and write .mdl files for the Source engine.
 .. |vtf| replace:: ValveVTF
@@ -43,10 +43,6 @@ Finished Projects
         |fgdtext|
         |fgdlink|
 
-
-Upcoming Projects
------------------
-
 .. container:: proj-showcase
 
    ..  figure:: /_static/pysourcesdk_pcf.png
@@ -56,6 +52,10 @@ Upcoming Projects
       |pcf|
         |pcftext|
         |pcflink|
+
+
+Upcoming Projects
+-----------------
 
 .. container:: proj-showcase
 
