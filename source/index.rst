@@ -16,6 +16,9 @@ Finished Projects
 .. |pcflink| replace:: https://pysourcesdk.github.io/ValvePCF
 .. |mdl| replace:: ValveMDL
 .. |mdltext| replace:: A python library to read and write .mdl files for the Source engine.
+.. |smd| replace:: ValveSMD
+.. |smdtext| replace:: A python library to read and write .smd files for the Source engine.
+.. |smdlink| replace:: https://pysourcesdk.github.io/ValveSMD
 .. |vtf| replace:: ValveVTF
 .. |vtftext| replace:: A python library to read and write .vtf files for the Source engine.
 .. |vmf| replace:: ValveVMF
@@ -52,6 +55,16 @@ Finished Projects
       |pcf|
         |pcftext|
         |pcflink|
+
+.. container:: proj-showcase
+
+   ..  figure:: /_static/pysourcesdk_smd.png
+       :target: https://pysourcesdk.github.io/ValveSMD
+
+   .. glossary::
+      |smd|
+        |smdtext|
+        |smdlink|
 
 
 Upcoming Projects
