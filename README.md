@@ -1,6 +1,7 @@
 # pySourceSDK
 
-This project is a resource to organise the documentation for the various projects
+This project is a resource to organise the documentation for the various library projects.
+Get the doc here https://pysourcesdk.github.io/hub/
 
 ### Finished Projects
 
