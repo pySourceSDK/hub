@@ -23,6 +23,9 @@ Finished Projects
 .. |vtftext| replace:: A python library to read and write .vtf files for the Source engine.
 .. |vmf| replace:: ValveVMF
 .. |vmftext| replace:: A python library to read and write .vmf files for the Source engine.
+.. |exe| replace:: ValveEXE
+.. |exetext| replace:: A python library to issue console commands to Source Engine game clients.
+.. |exelink| replace:: https://pysourcesdk.github.io/ValveEXE
 
 
 
@@ -35,6 +38,16 @@ Finished Projects
       |bsp|
         |bsptext|
         |bsplink|
+
+.. container:: proj-showcase
+
+   ..  figure:: /_static/pysourcesdk_exe.png
+       :target: https://pysourcesdk.github.io/ValveEXE
+
+   .. glossary::
+      |exe|
+        |exetext|
+        |exelink|
 
 .. container:: proj-showcase
 
