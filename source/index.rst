@@ -9,7 +9,7 @@ Finished Projects
 .. |bsptext| replace:: A python library to read and edit .bsp files for the Source engine.
 .. |bsplink| replace:: https://pysourcesdk.github.io/ValveBSP
 .. |fgd| replace:: ValveFGD
-.. |fgdtext| replace:: A python library to read and write .fgd files for the hammer editor.
+.. |fgdtext| replace:: A python library to read and write .fgd files for the Hammer editor.
 .. |fgdlink| replace:: https://pysourcesdk.github.io/ValveFGD
 .. |pcf| replace:: ValvePCF
 .. |pcftext| replace:: A python library to read and write .pcf files for the Source engine.
@@ -23,6 +23,7 @@ Finished Projects
 .. |vtftext| replace:: A python library to read and write .vtf files for the Source engine.
 .. |vmf| replace:: ValveVMF
 .. |vmftext| replace:: A python library to read and write .vmf files for the Source engine.
+.. |vmflink| replace:: https://pysourcesdk.github.io/ValveVMF
 .. |exe| replace:: ValveEXE
 .. |exetext| replace:: A python library to issue console commands to Source Engine game clients.
 .. |exelink| replace:: https://pysourcesdk.github.io/ValveEXE
@@ -38,6 +39,16 @@ Finished Projects
       |bsp|
         |bsptext|
         |bsplink|
+
+.. container:: proj-showcase
+
+   ..  figure:: /_static/pysourcesdk_vmf.png
+       :target: https://pysourcesdk.github.io/ValveVMF
+
+   .. glossary::
+      |vmf|
+        |vmftext|
+        |vmflink|
 
 .. container:: proj-showcase
 
@@ -82,14 +93,6 @@ Finished Projects
 
 Upcoming Projects
 -----------------
-
-.. container:: proj-showcase
-
-   ..  figure:: /_static/pysourcesdk_vmf.png
-
-   .. glossary::
-      |vmf|
-        |vmftext|
 
 .. container:: proj-showcase
 
