@@ -5,6 +5,8 @@ Get the doc here https://pysourcesdk.github.io/hub/
 
 ### Finished Projects
 
+<img src="/docs/source/_static/pysourcesdk_bsp.png" width="40" height="40" /> __ValveBSP__ https://pysourcesdk.github.io/ValveBSP/
+
 <img src="/docs/source/_static/pysourcesdk_vmf.png" width="40" height="40" /> __ValveVMF__ https://pysourcesdk.github.io/ValveVMF/
 
 <img src="/docs/source/_static/pysourcesdk_exe.png" width="40" height="40" /> __ValveEXE__ https://pysourcesdk.github.io/ValveEXE/
