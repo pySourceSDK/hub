@@ -1,0 +1,40 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - '*'
+  pull_request:
+    branches:
+      - '*'
+
+jobs:
+  build-n-publish:
+    name: Build and publish Python distributions to PyPI
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.10'
+
+    - name: Install pypa/setuptools
+      run: |
+        python -m pip install --upgrade pip
+        python -m pip install wheel
+        python -m pip install tox tox-gh-actions
+
+    - name: Sphinx Doc build
+      run: tox -e docs
+
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        publish_branch: gh-pages
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./docs/build
+        force_orphan: true
