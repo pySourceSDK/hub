@@ -4,7 +4,6 @@ This project is a resource to organise the documentation for the various library
 Get the doc here https://pysourcesdk.github.io/hub/
 
 ### Finished Projects
-<img src="/source/_static/pysourcesdk_bsp.png" width="40" height="40" /> __ValveBSP__ https://pysourcesdk.github.io/ValveBSP/
 
 <img src="/docs/source/_static/pysourcesdk_vmf.png" width="40" height="40" /> __ValveVMF__ https://pysourcesdk.github.io/ValveVMF/
 
