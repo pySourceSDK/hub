@@ -17,8 +17,9 @@ Get the doc here https://pysourcesdk.github.io/hub/
 
 <img src="/docs/source/_static/pysourcesdk_smd.png" width="40" height="40" style="margin-bottom: -20px"/> __ValveSMD__ https://pysourcesdk.github.io/ValveSMD/
 
+<img src="/docs/source/_static/pysourcesdk_mdl.png" width="40" height="40" /> __ValveMDL__ https://pysourcesdk.github.io/ValveMDL/
+
 ### Upcoming Projects
 
-    ValveMDL
     ValveVTF
     ValveGameinfo

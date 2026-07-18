@@ -17,7 +17,8 @@ Finished Projects
 .. |pcftext| replace:: A Python library for parsing and editing .PCF files (particle effect files for the Source engine).
 .. |pcflink| replace:: https://pysourcesdk.github.io/ValvePCF
 .. |mdl| replace:: ValveMDL
-.. |mdltext| replace:: A Python library for parsing and editing .mdl files for the Source engine.
+.. |mdltext| replace:: A Python library for parsing and editing .mdl files (model files for the Source engine).
+.. |mdllink| replace:: https://pysourcesdk.github.io/ValveMDL
 .. |smd| replace:: ValveSMD
 .. |smdtext| replace:: A Python library for parsing and editing .SMD files (uncompiled 3D mesh data for the Source engine).
 .. |smdlink| replace:: https://pysourcesdk.github.io/ValveSMD
@@ -92,17 +93,19 @@ Finished Projects
         |smdtext|
         |smdlink|
 
-
-Upcoming Projects
------------------
-
 .. container:: proj-showcase
 
    ..  figure:: /_static/pysourcesdk_mdl.png
+       :target: https://pysourcesdk.github.io/ValveMDL
 
    .. glossary::
       |mdl|
         |mdltext|
+        |mdllink|
+
+
+Upcoming Projects
+-----------------
 
 .. container:: proj-showcase
 
